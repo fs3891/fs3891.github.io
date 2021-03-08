@@ -72,7 +72,7 @@ nav li a{
     display: block;
 }
 
-.table-desktop{
+.tablet-desktop{
     display: none;
 }
 
@@ -151,7 +151,7 @@ article:nth-of-type(2) {
     padding: 20px;
     text-align: center;
     font-family: Verdana, Arial, sans-serif;
-    font-size: 1 sem;
+    font-size: 1 em;
     font-weight: bold;
 }
 
